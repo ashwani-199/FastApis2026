@@ -1,0 +1,19 @@
+{
+    "patients": [
+        {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,  
+        "gender": "Male",
+        "diagnosis": "Flu"
+        },
+        {      
+        "id": 2,
+        "name": "Jane Smith",       
+        "age": 25,
+        "gender": "Female",
+        "diagnosis": "Cold"     
+    }
+]
+
+}
