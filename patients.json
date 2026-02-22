@@ -13,6 +13,20 @@
         "age": 25,
         "gender": "Female",
         "diagnosis": "Cold"     
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "age": 40,  
+        "gender": "Female",
+        "diagnosis": "Diabetes" 
+    },
+    {
+        "id": 4,
+        "name": "Bob Brown",
+        "age": 50,  
+        "gender": "Male",
+        "diagnosis": "Hypertension" 
     }
 ]
 
