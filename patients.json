@@ -1,33 +1,24 @@
 {
-    "patients": [
-        {
-        "id": 1,
+    "P001": {
+        "id": "P001",
         "name": "John Doe",
-        "age": 30,  
+        "city": "New York",
+        "age": 30,
         "gender": "Male",
-        "diagnosis": "Flu"
-        },
-        {      
-        "id": 2,
-        "name": "Jane Smith",       
-        "age": 25,
-        "gender": "Female",
-        "diagnosis": "Cold"     
+        "height": 175.5,
+        "weight": 70.2,
+        "bmi": 22.79,
+        "verdict": "Normal weight"
     },
-    {
-        "id": 3,
-        "name": "Alice Johnson",
-        "age": 40,  
-        "gender": "Female",
-        "diagnosis": "Diabetes" 
-    },
-    {
-        "id": 4,
-        "name": "Bob Brown",
-        "age": 50,  
+    "P002": {
+        "id": "P002",
+        "name": "Mohan Kumar",
+        "city": "Haridwar",
+        "age": 20,
         "gender": "Male",
-        "diagnosis": "Hypertension" 
+        "height": 175.5,
+        "weight": 70.2,
+        "bmi": 22.79,
+        "verdict": "Normal weight"
     }
-]
-
 }
