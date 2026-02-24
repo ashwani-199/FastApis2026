@@ -1,24 +1,12 @@
 {
-    "P001": {
-        "id": "P001",
-        "name": "John Doe",
-        "city": "New York",
-        "age": 30,
-        "gender": "Male",
-        "height": 175.5,
-        "weight": 70.2,
-        "bmi": 22.79,
-        "verdict": "Normal weight"
-    },
     "P002": {
-        "id": "P002",
-        "name": "Mohan Kumar",
-        "city": "Haridwar",
-        "age": 20,
-        "gender": "Male",
-        "height": 175.5,
-        "weight": 70.2,
-        "bmi": 22.79,
-        "verdict": "Normal weight"
+        "name": "Mohan sharma",
+        "city": "DElhi",
+        "age": 30,
+        "gender": "Female",
+        "height": 50.0,
+        "weight": 90.0,
+        "bmi": 360.0,
+        "verdict": "Obese"
     }
 }
